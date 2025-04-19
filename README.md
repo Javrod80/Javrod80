@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Recientemente he finalizado el curso de Desarrollo de Aplicaciones con Tecnologías Web, y completé mis prácticas profesionales como desarrollador Full Stack, donde participé en el desarrollo de una aplicación web para la localización de activos en tiempo real, utilizando tecnologías como React, Node.js, MySQL, Sequelize y MQTT.<br><br>Además, he complementado mi formación con diplomas en Fundamentos de Python, Programación en Java (básico y avanzado), SQL Server, Inteligencia Artificial y Desarrollo de Aplicaciones Móviles.<br><br>Mi objetivo es incorporarme a un entorno dinámico donde pueda seguir aprendiendo y aportar valor a través de mis conocimientos en desarrollo, mi capacidad de adaptación y mi enfoque en la mejora continua. Estoy entusiasmado por contribuir al crecimiento de proyectos tecnológicos que impulsen la innovación y la eficiencia.
 
@@ -13,7 +12,10 @@ Recientemente he finalizado el curso de Desarrollo de Aplicaciones con Tecnolog�
 ![](https://nirzak-streak-stats.vercel.app/?user=Javrod80&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Javrod80&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Javrod80&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Javrod80&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Javrod80&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
