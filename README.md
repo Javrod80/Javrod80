@@ -7,7 +7,7 @@ Recientemente he finalizado el curso de **Desarrollo de Aplicaciones con Tecnolo
 
 Además, he complementado mi formación con diplomas en **Fundamentos de Python**, **Programación en Java** (básico y avanzado), **SQL Server**, **Inteligencia Artificial**, **Desarrollo de Aplicaciones Móviles** y **Microsoft Power BI**.
 
-**En mis repositorios públicos encontrarás proyectos que reflejan mi progreso y aprendizaje en desarrollo web, ciencia de datos y aplicaciones móviles, aplicando distintas tecnologías en situaciones reales.**
+**En mis repositorios públicos encontrarás proyectos que reflejan mi progreso y aprendizaje en desarrollo web, aplicaciones móviles, aplicando distintas tecnologías en situaciones reales.**
 
 
 
