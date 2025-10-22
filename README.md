@@ -38,7 +38,8 @@ Durante mis últimos proyectos he trabajado en sistemas de **localización de ac
 🔹 **ActivosPos** — Sistema de localización de activos en tiempo real usando **MQTT**, **React** y **Node.js**.  
 🔹 **MovieWeb** — Aplicación web para búsqueda y gestión de películas.  
 🔹 **AppSuperHero / AppHoroscope / Movie-iOS** — Aplicaciones móviles desarrolladas con **Kotlin** y **Swift**.  
-🔹 **Panel Power BI – Google Ads** — Proyecto de análisis de campañas con modelo estrella, métricas DAX y visualizaciones interactivas.
+🔹 ** y más proyetos que van haciendo el camino al andar**....
+
 
 ---
 
