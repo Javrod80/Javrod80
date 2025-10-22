@@ -81,7 +81,7 @@ Durante mis últimos proyectos he trabajado en:
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javier-arias-frontend-fullstack" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-arias-8980162a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Javrod80" target="_blank">
